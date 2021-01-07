@@ -50,6 +50,6 @@ If you need help using this app, we encourage you to:
 - Check out the [Getting Started Guide](docs/getting-started.md) in the docs folder of this repository
 - If you can't find the answer there, open an issue in this repository and add the label `question`
 
-## Project maintainers
+## Project maintainers 
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
